@@ -1,7 +1,8 @@
 {
-  "name": "the_stripes_nft_dapp",
+  "name": "Phoney X",
+  "homepage": "https://notrtfkt.xyz/mint/",
   "version": "1.0.0",
-  "description": "The Stripes NFT minting dapp is a quick and easy way to connect your smart contract and start minting NFTs.",
+  "description": "Dapp to mint Phoneys.",
   "private": true,
   "dependencies": {
     "git": "^0.1.5",
